@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @chirag-pujari
 - 👀 I’m interested in Java, Python, Data Analysis, Big Data, Cloud, Data Processing, Machine Learning, AI.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chirag.pujari@ingka.com
 
 <!---
